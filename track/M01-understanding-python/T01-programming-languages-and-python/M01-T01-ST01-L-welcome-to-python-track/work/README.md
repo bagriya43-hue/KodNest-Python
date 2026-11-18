@@ -2,26 +2,26 @@
 
 ## My Name
 
-Write your name.
+My name is Riya Bag.
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+During this foundation month, I learned the basics of computers, basic programming concepts and  variables, loops, and conditions.
+
+
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected Python because it is easy to learn, simple to understand, and useful for developing software and applications.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+My career goal is to become a Software Developer and build useful applications.
 
 ## What I Understood Today
 
-Complete these sentences:
+Programming means: Giving instractions to the computer to perform specific task and solve problems.
 
-Programming means:
+Python is: A simple powerful and beginner-friendly programming language used for web developments, automation, data science, artificial Intelligence and more.
 
-Python is:
-
-In this track, I will learn:
+In this track, I will learn: OOPs concept,file handeling, API develoment, module, package, data sturcture, problem solving and real time project development.
